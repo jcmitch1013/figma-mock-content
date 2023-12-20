@@ -9,6 +9,10 @@
             "name": "Last Names",
             "path": "last-names.txt"
         },
+         {
+            "name": "Providers",
+            "path": "providers.txt"
+        },
         {
             "name": "Addresses",
             "path": "addresses.txt"
